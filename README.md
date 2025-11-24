@@ -59,8 +59,10 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 
 > 🎬 Watch the full project demo below:
 
-[![Watch the video](https://img.shields.io/badge/Watch%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/singhpriya5)
-*(You can also add your actual video link or local file preview here)*
+<video width="600" controls>
+  <source src="object detection.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📊 Output Preview
 
