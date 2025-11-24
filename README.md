@@ -59,6 +59,8 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 
 > 🎬 Watch the full project demo below:
 
+[![Watch the video](https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/object%20detection.mp4)]
+
 <video width="600" controls>
   <source src="object detection.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -67,7 +69,7 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 ## 📊 Output Preview
 
 <p align="center">
-  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/sample_output.jpg" width="600" />
+  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/output_detected_image.jpg" width="600" />
 </p>
 
 ## 🔬 Future Improvements
