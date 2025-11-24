@@ -69,7 +69,7 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 ## 📊 Output Preview
 
 <p align="center">
-  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/predict.png" width="600" />
+  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/predict1.png" width="600" />
 </p>
 
 ## 🔬 Future Improvements
