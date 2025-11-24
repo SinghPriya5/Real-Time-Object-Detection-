@@ -59,7 +59,7 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 
 > 🎬 Watch the full project demo below:
 
-[![Watch the video](https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/object%20detection.mp4)]
+[![Watch the video](https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/object%20detection.mp4)](https://www.linkedin.com/posts/priya-singh-0a815b261_tensorflow-deeplearning-computervision-activity-7397571933585846272-2f6x?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEBFu8ABmeXJXmtGXQ0X6T79P1X5hsGOmws&utm_campaign=copy_link)
 
 <video width="600" controls>
   <source src="object detection.mp4" type="video/mp4">
@@ -69,7 +69,7 @@ pip install tensorflow==2.12.0 opencv-python matplotlib numpy
 ## 📊 Output Preview
 
 <p align="center">
-  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/output_detected_image.jpg" width="600" />
+  <img src="https://github.com/SinghPriya5/Real-Time-Object-Detection-/blob/main/predict.png" width="600" />
 </p>
 
 ## 🔬 Future Improvements
